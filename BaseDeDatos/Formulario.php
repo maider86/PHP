@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<title>Formulario para insertar datos en una Base de Datos</title>
+		<title>Formulario para Insertar/Seleccionar/Eliminar datos en una Base de Datos</title>
 	</head>
 	
 	<body>
